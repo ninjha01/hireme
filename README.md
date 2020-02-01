@@ -8,7 +8,7 @@ I build [websites](https://www.depmap.org), [mobile apps](https://apps.apple.com
 	
 # Why Hire Me?
 
- - How many software engineers know what it's like to wake up a 4am to dose mice?
+ - How many software engineers know what it's like to wake up at 4am to dose mice?
  - How many of them are [TripleByte certified](https://triplebyte.com/certificate/YAiPxpq)?
  - How many of those completed a Bachelor's + Master's in CS in 4 years?
  - How many of those scored in the [top 3% on the MCAT](https://drive.google.com/file/d/0B1VQ2orZxq3gcVNvb2pJMDV4UWM/view)?
