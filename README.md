@@ -1,3 +1,5 @@
+![](splash.jpg)
+
 # What I Do
 
 I am a full stack software engineer who works in cancer research.
