@@ -8,8 +8,6 @@ I build [websites](https://www.depmap.org), [mobile apps](https://apps.apple.com
 	
 # Why Hire Me?
 
-I have a lot of empathy for experimental and computational biologists.
-
  - How many software engineers know what it's like to wake up a 4am to dose mice?
  - How many of them are [TripleByte certified](https://triplebyte.com/certificate/YAiPxpq)?
  - How many of those completed a Bachelor's + Master's in CS in 4 years?
