@@ -14,7 +14,7 @@ I know what it's like to wake up at 4am to dose mice - and how frustrating it ca
 
 **Your job is to plan, execute, and communicate good science.**
 
-Writing, deploying, and maintaing software is mine.
+Writing, deploying, and maintaining software is mine.
 
 # Contact
 
