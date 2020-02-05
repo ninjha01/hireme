@@ -4,9 +4,9 @@ I build [mobile apps](https://apps.apple.com/app/allergen-guru/id1373922308) and
 
 ![](./home.png) | ![](./allergen.png)
 
-The apps are cross platform, and I'm cross disciplinary.
+The apps are cross platform and I'm cross disciplinary.
 
-I have a deep interest in biology, and thrive in a hard science environment.
+I have a deep interest in biology and thrive in a hard science environment.
 
 ---
 
