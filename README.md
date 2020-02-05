@@ -2,7 +2,8 @@
 
 I build [mobile apps](https://apps.apple.com/app/allergen-guru/id1373922308) and [websites](https://depmap.org/portal/) for biotech/health tech companies!
 
-![](./mast.png) AllergenGuru partners with the WHO to provide up-to-date information about allergens to food scientists. | ![](./hermes.png) Project Hermes guides and tracks post-hip replacement patients through curated physical therapy, without them having to leave their home.
+![](./mast.png) | ![](./hermes.png)
+AllergenGuru partners with the WHO to provide up-to-date information about allergens to food scientists. | Project Hermes guides and tracks post-hip replacement patients through curated physical therapy, without them having to leave their home.
 
 The apps are cross platform and I'm cross disciplinary.
 
