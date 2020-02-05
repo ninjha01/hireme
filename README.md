@@ -2,7 +2,7 @@
 
 I build [mobile apps](https://apps.apple.com/app/allergen-guru/id1373922308) and [websites](https://depmap.org/portal/) for biotech/health tech companies!
 
-![](./home.png) | ![](./allergen.png)
+![](./home.png) ![](./allergen.png) | ![](./hermes-demo.mov)
 
 The apps are cross platform and I'm cross disciplinary.
 
