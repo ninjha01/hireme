@@ -2,7 +2,15 @@
 
 I build [mobile apps](https://apps.apple.com/app/allergen-guru/id1373922308) and [websites](https://depmap.org/portal/) for biotech/health tech companies!
 
-![](./home.png) ![](./allergen.png) | ![](./hermes-demo.mov)
+<div class="row post-image-bg" markdown="0">
+    <video width="99%" height="540" autoplay loop muted markdown="0">
+        <source src="hermes-demo.mov" type="video/mov" markdown="0" >
+    </video>
+</div>
+
+![](./hermes-demo.mov)
+
+![](./home.png) | ![](./allergen.png)
 
 The apps are cross platform and I'm cross disciplinary.
 
