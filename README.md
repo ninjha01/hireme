@@ -2,7 +2,7 @@
 
 I build mobile apps and websites for biotech/health tech companies!
 
-![](./home.png) ![](./allergen.png)
+![](./home.png) | ![](./allergen.png)
 
 The apps are cross platform, and I'm cross disciplinary! I have a deep interest in biology, and thrive in a hard science environment!
 
