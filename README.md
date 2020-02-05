@@ -14,3 +14,8 @@ Writing, deploying, and maintaing software is mine.
 
 # Contact
 Check out [my resume](https://nishantjha.org/resume.pdf) and [send me an email](mailto:me@nishantjha.org).
+
+# Web Prescence
+
+ - [LinkedIn](https://linkedin.com/in/ninjha01/)
+ - [GitHub](https://github.com/ninjha01/)
