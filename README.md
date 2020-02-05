@@ -2,6 +2,11 @@
 
 I build [mobile apps](https://apps.apple.com/app/allergen-guru/id1373922308) and [websites](https://depmap.org/portal/) for biotech/health tech companies!
 
+<img src="./mast-home.png" width=200/>   | <img src="./mast-allergen.png" width=200/>
+<img src="./hermes-home.png" width=200/> | <img src="./hermes-exercise.png" width=200/>
+
+
+
 ![](./mast-home.png) | ![](./mast-allergen.png)
 ![](./hermes-home.png) | ![](./hermes-exercise.png)
 
