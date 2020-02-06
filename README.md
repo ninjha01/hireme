@@ -5,7 +5,7 @@ I build [mobile apps](https://apps.apple.com/app/allergen-guru/id1373922308) and
 ![](./mast.png) | ![](./hermes.png)
 AllergenGuru partners with the WHO to provide up-to-date information about allergens to food scientists. | Project Hermes guides and tracks post-hip replacement patients through curated physical therapy, without them having to leave their home.
 
-The apps are cross platform and I'm cross disciplinary 😛
+The apps are cross platform and I'm cross disciplinary. 😛
 
 I have a deep interest in biology and thrive in a hard science environment.
 
