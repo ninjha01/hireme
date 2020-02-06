@@ -21,6 +21,12 @@ Writing, deploying, and maintaining software is mine.
 
 Check out [my resume](https://nishantjha.org/resume.pdf) and [send me an email](mailto:me@nishantjha.org).
 
+# Background
+
+I'm passionate about Biology; I majored in Computer Science, but I also finished the entire Pre-Med courseload (and learned enough to score in the top 3% on the MCAT). All of that was done in the first three years of college, I crammed a 2 year Master's degree into my fourth. Along the way I worked the bench and the vivarium in a Pancreatic Cancer lab, wrote
+
+Credentials aside, I'm a curious and driven engineer. I'm love working in biotech - whether that's building tools for research scientists, helping physicians make more informed decisions, or handing patients the tools to help themselves.
+
 # Web Prescence
 
  - [LinkedIn](https://linkedin.com/in/ninjha01/)
