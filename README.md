@@ -27,6 +27,13 @@ I'm passionate about Biology; I majored in Computer Science, but I also finished
 
 Credentials aside, I'm a curious and driven engineer. I'm love working in biotech - whether that's building tools for research scientists, helping physicians make more informed decisions, or handing patients the tools to help themselves.
 
+# Technical
+
+The bulk of my experience is with `python` and `javascript` frameworks.
+The tech stack I reach for most often is `React/React Native`, `Flask`, and either `GCP` or `Firebase` depending on scope.
+I am more experienced with `GCP` through my work at the Broad Institute of MIT and Harvard, but I gained familiarity with `AWS` while working at Capital One.
+I am familiar with native mobile development, though I find for most applications `React Native`'s boost to development speed to be worth the tradeoffs.
+
 # Web Prescence
 
  - [LinkedIn](https://linkedin.com/in/ninjha01/)
