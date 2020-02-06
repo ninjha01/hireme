@@ -39,7 +39,7 @@ I am more experienced with `GCP` through my work at the Broad Institute of MIT a
 
 I am familiar with native mobile development, though I find for most applications `React Native`'s boost to development speed to be worth the tradeoffs.
 
-I am also [TripleByte certified](https://triplebyte.com/certificate/YAiPxpq)
+I am also [TripleByte certified.](https://triplebyte.com/certificate/YAiPxpq)
 
 # Web Prescence
 
