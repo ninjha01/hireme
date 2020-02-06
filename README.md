@@ -25,11 +25,16 @@ Check out [my resume](https://nishantjha.org/resume.pdf) and [send me an email](
 
 I'm passionate about Biology.
 
-I majored in Computer Science, but I also finished the entire Pre-Med courseload (and learned enough to score in the top 3% on the MCAT). All of that was done in the first three years of college, I crammed a 2 year Master's degree into my fourth 🎓. Along the way I worked the bench and the vivarium in a Pancreatic Cancer lab - and gained a lot of empathy for research scientists in the process.
+I majored in Computer Science, but I also finished the entire Pre-Med courseload (and learned enough to score in the top 3% on the MCAT). 
 
-Credentials aside, I'm a curious and driven engineer. I'm love working in biotech - whether that's building tools for research scientists, helping physicians make more informed decisions, or handing patients the tools to help themselves.
+All of that was done in the first three years of college, I crammed a 2 year Master's degree into my fourth 🎓. Along the way I worked the bench and the vivarium in a Pancreatic Cancer lab - and **gained a lot of empathy for research scientists in the process**.
+
+Credentials aside, I'm a curious and driven engineer. I love working in biotech - whether that's building tools for research scientists, helping physicians make more informed decisions, or handing patients the tools to help themselves.
 
 # Technical
+
+I am [TripleByte certified.](https://triplebyte.com/certificate/YAiPxpq)
+
 
 The bulk of my experience is with `python` and `javascript` frameworks.
 
@@ -39,9 +44,7 @@ I am more experienced with `GCP` through my work at the Broad Institute of MIT a
 
 I am familiar with native mobile development, though I find for most applications `React Native`'s boost to development speed to be worth the tradeoffs.
 
-I am also [TripleByte certified.](https://triplebyte.com/certificate/YAiPxpq)
-
-# Web Prescence
+# Web Presence
 
  - [LinkedIn](https://linkedin.com/in/ninjha01/)
  - [GitHub](https://github.com/ninjha01/)
