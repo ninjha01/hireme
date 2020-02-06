@@ -23,7 +23,7 @@ Check out [my resume](https://nishantjha.org/resume.pdf) and [send me an email](
 
 # Background
 
-🧪I'm passionate about Biology!🧬
+🧪 I'm passionate about Biology! 🧬
 
 I majored in Computer Science, but I also finished the entire Pre-Med courseload (and learned enough to score in **the top 3%** on the MCAT). 
 
