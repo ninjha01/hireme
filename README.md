@@ -34,6 +34,8 @@ The tech stack I reach for most often is `React/React Native`, `Flask`, and eith
 I am more experienced with `GCP` through my work at the Broad Institute of MIT and Harvard, but I gained familiarity with `AWS` while working at Capital One.
 I am familiar with native mobile development, though I find for most applications `React Native`'s boost to development speed to be worth the tradeoffs.
 
+I am also [TripleByte certified](https://triplebyte.com/certificate/YAiPxpq)
+
 # Web Prescence
 
  - [LinkedIn](https://linkedin.com/in/ninjha01/)
