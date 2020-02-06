@@ -48,3 +48,9 @@ I am familiar with native mobile development, though I find for most application
 
  - [LinkedIn](https://linkedin.com/in/ninjha01/)
  - [GitHub](https://github.com/ninjha01/)
+
+# Personal
+
+AFK, I like to cook and play tennis! If you want to taste-test my from-scratch naan or improve my one handed backhand [send me an email](mailto:me@nishantjha.org).
+
+I also love to read! I read 44 books in 2019, and would love book reccomendations.
