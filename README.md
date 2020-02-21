@@ -1,5 +1,9 @@
 # Mobile / Frontend Engineer Specializing in Biotech + Health Applications
 
+I build [mobile apps](https://apps.apple.com/app/allergen-guru/id1373922308) and [web apps](https://depmap.org/portal/) for biotech/health tech companies. 
+
+Notebooks and spreadsheets are powerful tools, but they aren't production ready software. That gap is filled with App Store approvals, load balancers and worst of all, javascript frameworks.
+
 ---
 
 I know what it's like to wake up at 4 a.m. to dose mice - and how frustrating it can be when you don't have the right software on hand.
@@ -9,10 +13,6 @@ I know what it's like to wake up at 4 a.m. to dose mice - and how frustrating it
 *Writing, deploying, and maintaining software is mine.*
 
 ---
-
-I build [mobile apps](https://apps.apple.com/app/allergen-guru/id1373922308) and [web apps](https://depmap.org/portal/) for biotech/health tech companies!
-
-I have a deep interest in biology and do working in a hard science environment.
 
 # History
 
@@ -46,6 +46,6 @@ I am familiar with native mobile development, though I find for most application
 
 # Personal
 
-AFK, I like to cook and play tennis! If you want to taste-test my from-scratch naan or improve my one handed backhand [send me an email](mailto:me@nishantjha.org).
+I like to cook and play tennis. If you want to taste-test my from-scratch naan or improve my one handed backhand [send me an email](mailto:me@nishantjha.org).
 
 I also love to read! I read 44 books in 2019, and would love book recommendations.
